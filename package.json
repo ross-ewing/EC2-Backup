@@ -1,0 +1,30 @@
+{
+  "name": "ec2-backup",
+  "version": "1.0.0",
+  "description": "A script for creating and removing ec2 snapshots",
+  "main": "backup.js",
+  "dependencies": {
+    "fs": "^0.0.2",
+    "nodemailer": "^2.5.0",
+    "npm": "^3.10.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "hhttps://github.com/ross-ewing/EC2-Backup.git"
+  },
+  "author": "Ross E & Chris S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ross-ewing/EC2-Backup.git/issues"
+  },
+  "homepage": "https://github.com/ross-ewing/EC2-Backup.git#readme",
+  "dependencies": {
+    "underscore": "*",
+    "nodemailer":"*",
+    "aws-sdk":"*"
+  }
+}

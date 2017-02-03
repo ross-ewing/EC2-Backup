@@ -28,5 +28,3 @@ module.exports = {
     var: volumeName = ['ID-1-NAME, ', 'ID-2-NAME, ', 'ID-3-NAME '],
     var: backupint = 20000 //ITERATION RATE - CHANGE DEPENDING ON VOLUME SIZE TO REDUCE SCRIPT TIME.
 };
-
-
